@@ -3,10 +3,10 @@ Quiz App
 
 Working Features:
 -Title Screen
--Question 1
+-Question 1 Screen
+-Question 2 Screen
 
 TODO:
--Question 2
 -Recording Question 1's Answer
 -Recording Question 2's Answer
 -Results Screen
