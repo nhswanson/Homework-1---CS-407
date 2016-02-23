@@ -5,10 +5,12 @@ Working Features:
 -Title Screen
 -Question 1 Screen
 -Question 2 Screen
+-Results Screen
 
 TODO:
 -Recording Question 1's Answer
 -Recording Question 2's Answer
--Results Screen
+-Checking correctness of Q1/Q2's answers for result screen
 
-Youtube Video: N/A
+
+Youtube Video: https://youtu.be/rWA--eK5GTc
